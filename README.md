@@ -1,3 +1,3 @@
 # commanderbrain
 
-Don't fuck with commanderbrain
+neither commander nor brain
